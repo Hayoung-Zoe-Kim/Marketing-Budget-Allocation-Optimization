@@ -32,3 +32,6 @@ Stable budget = for each platform the monthly change in spend is no more than $1
 - Stability analysis has highlighted potential operational challenges associated with significant monthly budget fluctuations, indicating the need for a more consistent allocation strategy
 - In order to maintain the efficiency of our budgeting decisions, it is imperative to regularly refresh ROI data.
 - Additionally, it would be prudent to develop a refined model that takes into account month-to-month budgetary constraints in order to ensure stability in the allocation of budgets across channels.
+
+## More
+Full Code : https://github.com/Hayoung-Zoe-Kim/Marketing-Budget-Allocation-Optimization/blob/main/0_Marketing%20Budget%20Allocation%20Optimization.ipynb
