@@ -29,6 +29,6 @@ Stable budget = for each platform the monthly change in spend is no more than $1
 
 ## Conclusion
 - Sensitivity analysis also reveals the vulnerability and flexibility of our advertising channels. While platforms such as Instagram and Email were noted for their resilience and growth potential, SEO and AdWords appeared more susceptible to fluctuation in ROI. 
-- stability analysis has highlighted potential operational challenges associated with significant monthly budget fluctuations, indicating the need for a more consistent allocation strategy
+- Stability analysis has highlighted potential operational challenges associated with significant monthly budget fluctuations, indicating the need for a more consistent allocation strategy
 - In order to maintain the efficiency of our budgeting decisions, it is imperative to regularly refresh ROI data.
 - Additionally, it would be prudent to develop a refined model that takes into account month-to-month budgetary constraints in order to ensure stability in the allocation of budgets across channels.
