@@ -8,7 +8,7 @@ The purpose of this project is to utilize linear programming, with the aid of Gu
 ## Highlights of Analysis
 
 #### Optimized Budget Allocation based on two different ROI data
-![image](https://github.com/Hayoung-Zoe-Kim/Marketing-Budget-Allocation-Optimization/blob/main/Allocation1,2.png)
+![image](https://github.com/Hayoung-Zoe-Kim/Marketing-Budget-Allocation-Optimization/blob/main/Allocation1&2.png)
 
 #### Budget Sensitivity Ranges
 Allowable variations or adjustments in budget allocations without significantly impacting the overall optimization objective or outcomes
